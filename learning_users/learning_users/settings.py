@@ -27,7 +27,7 @@ SECRET_KEY = '8ubv^n__+_@tresu@0zjneby^x4y^s@$073g4nma-6k-0%io=g'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['binayakrout.pythonanywhere.com',]
 
 
 # Application definition
